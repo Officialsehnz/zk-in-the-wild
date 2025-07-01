@@ -1,3 +1,11 @@
+**Author:** \[Sehnz]
+**Date:** June 2025
+
+* [Twitter:] (https://x.com/tradewithsehnz)
+* [Discord:] @officialsehnz
+
+Let's hit it
+
 # Succinct Research Summary
 
 This document explores the roadmap, purpose, and emerging ecosystem around Succinct, a Web3 project building a decentralized proof network. It explains how Succinct’s staged testnets, core technology, and integrations with other protocols are shaping a trustless infrastructure layer for the future of the internet.
