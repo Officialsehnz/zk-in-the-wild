@@ -1,5 +1,5 @@
 **Author:** \[Sehnz]
-**Date:** June 2025
+**Date:** July 2025
 
 * [Twitter:] (https://x.com/tradewithsehnz)
 * [Discord:] @officialsehnz
